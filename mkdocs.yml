@@ -1,0 +1,6 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - 砍刀: 砍刀.md
+theme:
+  name: 'material'
